@@ -1,7 +1,13 @@
-*My Note on the book*
+**My Note on the book**
+
 
 #####################################################################
-*<u>Book Notes</u>
+
+
+**<u>Book Notes</u>**
+
+
+##################################
 
 **If you like the book, please consider writing a review on Google/Amazon/Goodreads 🙂**
 
